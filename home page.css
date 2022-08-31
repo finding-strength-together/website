@@ -1,0 +1,59 @@
+h1, h2, h3, h5, h6
+{color: blueviolet;
+  font-family:"fantasy",papyrus;
+  background-color: lavender;
+  border: 2px solid rebeccapurple;
+  border-radius: 10px; 
+  text-align: center; 
+  margin: 25px 20px;
+}
+ 
+ h1 {
+    font-size: 60px
+  } 
+.first {
+    font-size: 20px; 
+    font-family: "fantasy",papyrus;
+    font-style: bold;
+}
+.mission {
+  text-align:center;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
+}
+.custom-h4
+{color: blueviolet;
+    font-family: "fantasy",papyrus;
+    font-style: bold;
+    background-color:lavenderblush;
+    border:2px solid rebeccapurple;
+    border-radius: 10px;
+    text-align: center;
+    padding:25px; 
+    margin-bottom:25px;
+  }
+.frank{
+  border-radius: 20px;
+  border-style: dashed;
+  background-color: lavender;
+  padding: 5px;
+   margin:100px;
+ }
+.lib {
+    margin-left: 20px;margin-right: 10px;
+  }
+.centering {
+    text-align: center;
+  }
+
+.bg-purple {
+  background: rebeccapurple;
+}
+
+nav {
+  margin-bottom: 10px;
+  font-family: "fantasy", papyrus;
+  font-size: 1.5rem;
+}

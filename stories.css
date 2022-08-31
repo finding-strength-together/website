@@ -1,0 +1,43 @@
+h1
+	{text-align: center ;
+	border: 2px solid rebeccapurple;
+	border-radius: 10px;
+	background: lavender;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+h2
+	{text-align: center ;}
+h1, h2, h3, h4, h5, h6
+{color: blueviolet;font-family: "fantasy", papyrus;}
+
+.images{
+	text-align: center;
+}
+.images img{
+	margin: 20px;
+}
+.story {
+	border: 2px solid blueviolet;
+	padding: 10px;
+	background: lavender;
+	border-radius: 10px;
+}
+
+h3
+{text-align: center;
+
+ color: lavender;font-family: "fantasy", papyrus; }
+
+.bg-purple {
+  background: rebeccapurple;
+}
+
+nav {
+  margin-bottom: 10px;
+  font-family: "fantasy", papyrus;
+  font-size: 1.5rem;
+}
+
+	
+	

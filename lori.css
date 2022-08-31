@@ -1,0 +1,72 @@
+h1 {
+	color: whitesmoke; font-family:"arial";
+background-color:pink;
+font-size: 60px;
+/*margin-left:  40px;*/
+background:url("images/underwater.webp");
+padding: 50px;
+  margin: 25px 20px;
+
+}
+
+.best {
+	background-color: lightpink: 
+border:  2px solid blue;
+font-size:: 20px:
+}
+button {
+	border-radius:  20px;
+border-style:  dashed;
+background-color:pink;}
+
+.p2 {color:orange;}
+.p3 {color: red;}
+.p4 {color: blue;}
+.p5 {color: yellowgreen;}
+
+h2 {
+	color: lightpink; font-family:"arial";
+	background-image: url("images/beach.webp");
+	padding: 40px;
+}
+
+.custom-h2 {
+	margin: 25px 20px;
+}
+
+h3 {
+	margin-right: 20px;
+}
+
+h1, h2, h3, h4, h5, h6
+	{color: blueviolet;font-family: "fantasy",papyrus;
+		background-color: lavender; text-align: center;
+		border-radius: 10px;
+		border: 2px solid blueviolet ;
+	}
+
+
+
+.value1{color: blue}
+.value2 {color:  green}
+.value3 {color: orange}
+.value4 {color:  red}
+.value5 {color: purple}
+
+div.col-6 {
+/*padding-left: 100px;*/
+	
+}
+.spacing {margin-top: 10px;}
+
+.bg-purple {
+  background: rebeccapurple;
+}
+
+nav {
+  margin-bottom: 10px;
+  font-family: "fantasy", papyrus;
+  font-size: 1.5rem;
+}
+
+
